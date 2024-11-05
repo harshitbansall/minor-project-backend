@@ -20,7 +20,7 @@ v1#branch                                    0
 
 No. of Data Rows : 59
                               * rc circuit example
-                              Transient Analysis  Tue Nov  5 04:49:09  2024
+                              Transient Analysis  Tue Nov  5 05:16:15  2024
 --------------------------------------------------------------------------------
 Index   time            v(out)          
 --------------------------------------------------------------------------------
@@ -88,12 +88,12 @@ Index   time            v(out)
 58	1.000000e-02	1.000000e+01	
 
 
-Total analysis time (seconds) = 0.000204
+Total analysis time (seconds) = 0.006
 
-Total CPU time (seconds) = 0.028 
+Total elapsed time (seconds) = 0.072 
 
-Total DRAM available = 8192.000 MB.
-DRAM currently available =  233.969 MB.
-Maximum ngspice program size =    7.125 MB.
-Current ngspice program size =    7.125 MB.
+Total DRAM available = 16286.660 MB.
+DRAM currently available = 9996.031 MB.
+Maximum ngspice program size =   13.605 MB.
+Current ngspice program size =   13.602 MB.
 
