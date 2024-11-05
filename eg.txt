@@ -1,0 +1,1 @@
+* RC Circuit Example\nV1 in 0 DC 10\nR1 in out 1k\nC1 out 0 1uF\n.tran 1ms 10ms\n.print tran V(out)\n.end

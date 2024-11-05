@@ -1,9 +1,9 @@
 * RC Circuit Example
-V1 in 0 DC 10      ; Define a 10V DC voltage source
-R1 in out 1k       ; 1 kΩ resistor between 'in' and 'out'
-C1 out 0 1uF       ; 1 µF capacitor between 'out' and ground
+V1 in 0 DC 10
+R1 in out 1k
+C1 out 0 1uF
 
-.tran 1ms 10ms     ; Transient analysis from 0 to 10 ms with 1 ms time steps
-.print tran V(out)  ; Plot the voltage at the 'out' node over time
+.tran 1ms 10ms
+.print tran V(out)
 
 .end
